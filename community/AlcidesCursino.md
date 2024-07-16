@@ -1,6 +1,6 @@
 # Alcides Cursino #
 
-## Analista de marketing estudando transição de carreira paara área de dados
+## Analista de marketing estudando transição de carreira para área de dados.
 <i>(Curitiba/PR - Brasil)</i>
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/alcides87)
